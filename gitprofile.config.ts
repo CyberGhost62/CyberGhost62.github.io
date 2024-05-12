@@ -36,7 +36,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    website: 'https://CyberGhost62.github.io/gitprofile/',
+    website: 'https://CyberGhost62.github.io/',
     email: 'gyunhopark@g.skku.edu',
   },
   skills: [
